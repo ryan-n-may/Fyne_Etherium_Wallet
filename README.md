@@ -1,4 +1,7 @@
 # Fyne Ethereum Wallet
+
+This is another simple project to get familiar with Golang for university project work.
+
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 
 ![image](https://github.com/ryan-n-may/Fyne_Ethereum_Wallet/assets/22835771/67893e73-d96a-49b8-b2d7-a0badbf17f03)
@@ -12,9 +15,6 @@ This was built over a weekend while I had the flu. It is an exploration into cry
 * Seperate wallets into accounts.
 * Create new Ethereum transactions.
 * Encrypted account storage (AES256)
-
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 
-[My LinkedIn Account](http://www.linkedin.com/in/ryan-may-6655b115b)
 
 ![Fyne Wallet GUI](https://github.com/ryan-n-may/Fyne_Ethereum_Wallet/blob/main/screenshots/summary_image.png)
 
